@@ -1,1 +1,2 @@
-this is a demo forusing git
+this is a demo for using git
+we arepshing into github
